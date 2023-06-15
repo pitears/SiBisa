@@ -1,7 +1,11 @@
 System Requirement
+
 •	Working on Google Colab
+
 •	Tensorflow: 2.12.0
+
 •	Python: 3.9
+
 •	Dataset: 
 -	https://drive.google.com/drive/folders/1Gr6KCP4IOFR9-ZgoPHZ6kxDQWJthkzfx?usp=sharing 
 -	https://www.kaggle.com/datasets/alfredolorentiars/bisindo-letter-dataset
